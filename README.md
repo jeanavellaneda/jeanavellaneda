@@ -1,7 +1,7 @@
 # Hola, mi nombre es Jean 👋👨‍💻💻🌐 ☁
 
 <img src="https://raw.githubusercontent.com/jeanavellaneda/jeanavellaneda/refs/heads/main/Banner_github_jean.png" alt="banner that says Jean - software engineer">
-Soy ingeniero de Sistemas, amante de la tecnologia, especialmente en el desarrollo de softwate, comence como FullStack developer, luego como Analista desarrollador backend en java y actualmente estoy en el bonito mundo de los datos como Data Engineer.<br>
+Soy Ingeniero de Sistemas, amante de la tecnología, especialmente en el desarrollo de softwate, comencé como FullStack developer, luego como Analista desarrollador backend en java y actualmente estoy en el bonito mundo de los datos como Data Engineer.<br>
 #Spark, #Scala, #Jupyter, #hadoop, #Cloud #Python.
 
 ## Encuentrame en 🌎: 
