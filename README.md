@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanavellaneda&label=Profile%20views&color=0e75b6&style=flat" alt="jeanavellaneda" /> </p>
+
 # Hola, mi nombre es Jean 👋👨‍💻💻🌐 ☁
 
 <img src="https://raw.githubusercontent.com/jeanavellaneda/jeanavellaneda/refs/heads/main/Banner_github_jean.png" alt="banner that says Jean - software engineer">
