@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, mi nombre es Jean 👋👨‍💻💻🌐 ☁
 
-<!--
-**jeanavellaneda/jeanavellaneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/jeanavellaneda/jeanavellaneda/refs/heads/main/Banner_github_jean.png" alt="banner that says Jean - software engineer">
+Soy ingeniero de Sistemas, amante de la tecnologia, especialmente en el desarrollo de softwate, comence como FullStack developer, luego como Analista desarrollador backend en java y actualmente estoy en el bonito mundo de los datos como Data Engineer.<br>
+#Spark, #Scala, #Jupyter, #hadoop, #Cloud #Python.
 
-Here are some ideas to get you started:
+## Encuentrame en 🌎: 
+- Red social : <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
+<a href="https://www.linkedin.com/in/jean-hector-avellaneda-paitan/" target="_blank" style="margin-left: 2px;">linkedin</a> 💼
+- Blogs y publicación : <a href="#" target="_blank"><i class="fab fa-medium" style="color: black;"></i></a>
+<a href="https://medium.com/@jhavellanedap" target="_blank" style="margin-left: 2px;">medium</a> 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
